@@ -27,9 +27,7 @@
       }
     },
     "extensionId": "text2speech",
-    "arch": [
-      "*"
-    ],
+    "arch": null,
     "iconURL": "./assets/text2speech.png",
     "description": {
       "formatMessage": {
