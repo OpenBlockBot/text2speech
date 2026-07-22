@@ -1,7 +1,7 @@
 {
   "name": "text2speech",
-  "version": "1.0.0",
-  "author": "OpenBlock",
+  "version": "0.1.0",
+  "author": "Scratch",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -27,7 +27,12 @@
       }
     },
     "extensionId": "text2speech",
-    "arch": null,
+    "arch": [
+      "*"
+    ],
+    "programMode": [
+      "realtime"
+    ],
     "iconURL": "./assets/text2speech.png",
     "description": {
       "formatMessage": {
