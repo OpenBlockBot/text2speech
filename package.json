@@ -44,7 +44,7 @@
     "main": "./src/text2speech.js",
     "translations": "./src/translations.js",
     "tags": [
-      "scratch"
+      "audio"
     ],
     "helpLink": "https://wiki.openblock.cc"
   },
